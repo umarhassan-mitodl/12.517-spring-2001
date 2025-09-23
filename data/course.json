@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2001",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ]
+  ],
+  "legacy_uid": "2478bbec-a4a3-f3f8-702d-10d2cc50a736",
+  "instructors": {
+    "content": [
+      "728ffe86-d083-ff18-71ad-71d94ca80371"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "78828ae5-5d48-2a96-ea39-ff462e5b14d7",
+    "website": "12-517-dynamics-of-complex-systems-ecological-theory-spring-2001"
+  },
+  "course_title": "Dynamics of Complex Systems: Ecological Theory",
+  "course_description": "In this class we will critically review both classical works and recent literature on ecological theory. Emphasis will be on providing a theoretical and phenomenological foundation for the study of computational models. We will meet twice weekly for roundtable discussions.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.517",
+  "course_image_thumbnail": {
+    "content": "7e0b2f6e-5981-7d6a-6dea-570f590a5679",
+    "website": "12-517-dynamics-of-complex-systems-ecological-theory-spring-2001"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments"
+  ],
+  "site_uid": "f6ae028c-0c27-4727-8edf-dd328a099a78",
+  "site_short_id": "12.517-spring-2001",
+  "site_url_path": "courses/12-517-dynamics-of-complex-systems-ecological-theory-spring-2001",
+  "title": "Course Metadata"
+}
